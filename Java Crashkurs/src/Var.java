@@ -3,7 +3,7 @@ public class Var {
 
 	public static void main(String[] args) {
 		int zahl = 42; // +/- etwa 2 Milliarden
-		long groﬂezahl = 1337L; // wirklich lang
+		long grossezahl = 1337L; // wirklich lang
 		short kleineZahl = 7; // -32.768 ... 32.767
 		byte sehrkleineZahl = -7; // -128 ... 127
 		

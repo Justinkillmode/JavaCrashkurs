@@ -5,11 +5,11 @@ public class Rekursion {
 		loop(42);
 	}
 	
-	static void loop(int anzahlDurchläufe) {
-		if(anzahlDurchläufe > 0) 
+	static void loop(int anzahlDurchlaeufe) {
+		if(anzahlDurchlaeufe > 0) 
 		{
-			System.out.println("Noch " + anzahlDurchläufe + " Durchläufe");
-			loop(anzahlDurchläufe - 1);
+			System.out.println("Noch " + anzahlDurchlaeufe + " Durchlï¿½ufe");
+			loop(anzahlDurchlaeufe - 1);
 		}
 	}
 

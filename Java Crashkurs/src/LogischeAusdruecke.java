@@ -1,5 +1,5 @@
 
-public class LogischeAusdrücke {
+public class LogischeAusdruecke {
 
 	public static void main(String[] args) {
 		String modus = "Singelplayer";
